@@ -1,2 +1,1 @@
-# rsschool-cv
-RS School
+https://marcchik.github.io/rsschool-cv/cv
