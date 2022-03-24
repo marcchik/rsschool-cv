@@ -6,7 +6,7 @@
 - **GitHub:** [https://github.com/marcchik](https://github.com/marcchik)
 - **Linkedin:** [https://www.linkedin.com/in/mark-stepaniuk-715015217/](https://www.linkedin.com/in/mark-stepaniuk-715015217/)
 
-№№ Skills
+## Skills
 - JS
 - HTML
 - CSS
