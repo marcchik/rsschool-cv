@@ -5,3 +5,11 @@
 - **Phone:** +375 3 334 94 46
 - **GitHub:** [https://github.com/marcchik](https://github.com/marcchik)
 - **Linkedin:** [https://www.linkedin.com/in/mark-stepaniuk-715015217/](https://www.linkedin.com/in/mark-stepaniuk-715015217/)
+
+
+## Code example
+```
+$a = 5; 
+$b = 3; 
+$c = $a + $b; 
+``` 
