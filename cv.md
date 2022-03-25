@@ -24,12 +24,13 @@ $c = $a + $b;
 
 ## Experience
 **Front-end:** 1 year
+
 **Back-end** 1+ years
 
 ## Education
-**High school** 2008 - 2019
-**Belarusian State Technological University** 
-### Information Technology 2008 - 2019
+**High school** 2008 - 2019  
+
+**Belarusian State Technological University (Information Technology)** 2008 - 2019
 
 ## English
 **А2**
