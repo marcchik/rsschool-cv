@@ -6,6 +6,9 @@
 - **GitHub:** [https://github.com/marcchik](https://github.com/marcchik)
 - **Linkedin:** [https://www.linkedin.com/in/mark-stepaniuk-715015217/](https://www.linkedin.com/in/mark-stepaniuk-715015217/)
 
+## Goals
+**Senior Front-end Developer**
+
 ## Skills
 - JS
 - HTML
@@ -24,12 +27,10 @@ $c = $a + $b;
 
 ## Experience
 **Front-end:** 1 year
-
 **Back-end** 1+ years
 
 ## Education
 **High school** 2008 - 2019  
-
 **Belarusian State Technological University (Information Technology)** 2008 - 2019
 
 ## English
